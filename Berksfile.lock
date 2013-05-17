@@ -1,0 +1,1 @@
+cookbook 'go-language-chef-cookbook', :path => '/home/tobyhede/chef-repo/cookbooks/go-language-chef-cookbook'
