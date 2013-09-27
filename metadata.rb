@@ -1,3 +1,4 @@
+name 			        "golang"
 maintainer        "Michael Klishin"
 maintainer_email  "michael@defprotocol.org"
 license           "Apache 2.0"
